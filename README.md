@@ -1,2 +1,3 @@
 # MorsLag
-A "network stress" program
+A "fun" minecraft tool
+- Ttwing, MMI, Mabal =)
